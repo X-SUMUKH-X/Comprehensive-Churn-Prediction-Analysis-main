@@ -1,8 +1,5 @@
 # Comprehensive Churn Prediction and Analysis
 
-### Video Walkthrough
-https://drive.google.com/file/d/1RQIlN9JeVP0WYvfK9LwM5AN-xbLweE1L/view?usp=sharing
-
 ## Description
 
 The **Comprehensive Churn Prediction and Analysis** project leverages data analytics and machine learning techniques to predict customer churn and analyze key factors contributing to it. By examining variables such as gender, age, tenure, payment methods, and geographical location, the project aims to provide actionable insights that can help in developing targeted retention strategies and improving overall customer satisfaction.
